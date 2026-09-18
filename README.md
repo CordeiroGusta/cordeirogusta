@@ -1,29 +1,8 @@
-<a href="https://github.com/CordeiroGusta">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=GUSTAVO%20CORDEIRO&fontSize=52&fontColor=FFFFFF&descSize=22&descAlignY=68&descAlign=50" width="100%" alt="Header banner" />
+<a href="https://github.com/CordeiroGusta"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=Gustavo%20Cordeiro&fontSize=44&fontColor=FFFFFF&desc=Backend%20Developer&descSize=19&descAlignY=68&descAlign=50" width="100%" alt="Header banner" /> </a>
 </a>
 
 <div align="center">
-
-## Backend Developer
-
-<p>
-  Tenho foco em <strong>Desenvolvimento Backend</strong>, com experiência e estudos voltados para construção de <strong>APIs REST</strong>, tratamento de dados, bancos de dados e integração entre sistemas.
-</p>
-
-<p>
-  Minha principal stack envolve <strong>Python, MySQL, APIs REST e Git</strong>. Também tenho contato com <strong>MongoDB e Docker</strong>, áreas nas quais estou atualmente aprofundando meus conhecimentos para ampliar minha visão sobre desenvolvimento, persistência de dados e ambientes de execução.
-</p>
-
-<p>
-  No dia a dia, também utilizo ferramentas como <strong>Azure DevOps, Postman, VS Code e GitHub</strong>, além de ambientes <strong>Windows e Ubuntu</strong>.
-</p>
-
-</div>
-
-<br>
-
----
-
+  
 <div align="center">
 
 ## Main Skills
@@ -68,13 +47,4 @@
 </div>
 
 <br>
-
-<div align="center">
-
-## Currently Studying
-<p>
-  Atualmente me aprofundando em <strong>Docker</strong> e <strong>MongoDB</strong>, buscando fortalecer meus conhecimentos em containers, ambientes de execução, persistência e bancos de dados NoSQL.
-</p>
-
-</div>
 
