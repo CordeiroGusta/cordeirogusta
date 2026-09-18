@@ -1,4 +1,4 @@
-<a href="https://github.com/CordeiroGusta"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=Gustavo%20Cordeiro&fontSize=44&fontColor=FFFFFF&desc=Backend%20Developer&descSize=19&descAlignY=68&descAlign=50" width="100%" alt="Header banner" /> </a>
+<a href="https://github.com/CordeiroGusta"> <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=Gustavo%20Cordeiro&fontSize=52&fontColor=FFFFFF&desc=Backend%20Developer&descSize=21&descAlignY=68&descAlign=50" width="100%" alt="Header banner" /> </a>
 </a>
 
 <div align="center">
