@@ -4,9 +4,14 @@
 
 # Gustavo Cordeiro
 
-### Backend Developer
 
-**Focused on Backend Development | Python | REST APIs | MySQL**
+### Backend Development
+
+Currently focused on strengthening my backend fundamentals, building REST APIs and improving my knowledge of databases, containers and software development practices.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=120&section=footer"/>
 
 <br>
 
@@ -49,23 +54,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
 
-## Currently Studying
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-<br>
-
-<div align="center">
-
-### Backend Development
-
-Currently focused on strengthening my backend fundamentals, building REST APIs and improving my knowledge of databases, containers and software development practices.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=120&section=footer"/>
