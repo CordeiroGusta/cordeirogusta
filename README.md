@@ -72,18 +72,9 @@
 <div align="center">
 
 ## Currently Studying
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
 <p>
   Atualmente me aprofundando em <strong>Docker</strong> e <strong>MongoDB</strong>, buscando fortalecer meus conhecimentos em containers, ambientes de execução, persistência e bancos de dados NoSQL.
 </p>
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=120&section=footer"/>
