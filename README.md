@@ -1,5 +1,5 @@
 <a href="https://github.com/CordeiroGusta">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=GUSTAVO%20CORDEIRO&fontSize=52&fontColor=FFFFFF&desc=Backend%20Developer&descSize=22&descAlignY=68&descAlign=50" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=220&section=header&text=GUSTAVO%20CORDEIRO&fontSize=52&fontColor=FFFFFF&descSize=22&descAlignY=68&descAlign=50" width="100%" alt="Header banner" />
 </a>
 
 <div align="center">
