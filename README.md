@@ -11,8 +11,6 @@ Currently focused on strengthening my backend fundamentals, building REST APIs a
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=120&section=footer"/>
-
 <br>
 
 <a href="https://github.com/CordeiroGusta">
@@ -53,5 +51,7 @@ Currently focused on strengthening my backend fundamentals, building REST APIs a
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3B1B5A&height=120&section=footer"/>
 
 
