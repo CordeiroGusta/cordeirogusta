@@ -72,7 +72,7 @@ I enjoy building applications, designing REST APIs, working with data, and under
 ### API-produtos
 
 <p align="left">
-A RESTful API built with Python and FastAPI, focused on product management, layered architecture, separation of responsibilities and automated testing.
+  A RESTful API built with Python and FastAPI, focused on product management, layered architecture, separation of responsibilities and automated testing.
 </p>
 
 **Key Features**
@@ -82,7 +82,11 @@ A RESTful API built with Python and FastAPI, focused on product management, laye
 - Automated tests covering routes, services and repositories.
 - Continuous architectural and database improvements.
 
-<br>
+<p align="left">
+  <a href="https://github.com/CordeiroGusta/API-produtos">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View API-produtos Repository" />
+  </a>
+</p>
 
 <!-- CONTACT -->
 <div align="center">
@@ -93,8 +97,13 @@ A RESTful API built with Python and FastAPI, focused on product management, laye
   <a href="https://github.com/CordeiroGusta">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <a href="https://www.linkedin.com/in/gustavo-cordeiro-de-ferro-3a6b24359/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
